@@ -165,7 +165,7 @@ spinner {
       opacity: 0.4; }
 
 /****************
- * Text Entries *
+ * Text-Entries *
  ****************/
 spinbutton:not(.vertical), notebook > stack:not(:only-child) revealer entry,
 notebook > stack:not(:only-child) revealer spinbutton:not(.vertical),
