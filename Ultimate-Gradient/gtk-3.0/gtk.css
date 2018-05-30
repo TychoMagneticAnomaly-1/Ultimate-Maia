@@ -284,7 +284,7 @@ entry {
     entry.error.flat {
       transition: all 0.3s cubic-bezier(0, 0, 0.2, 1);
       border-image: radial-gradient(circle closest-corner at center calc(100% - 1px), #DD2C00 0%, transparent 0%) 0 0 0/0 0 0px;
-      box-shadow: inset 0 -1px #DD2C00;
+      box-shadow: inset 0 -1px #DD3C00;
       background-color: transparent;
       color: rgba(0, 0, 0, 0.8); }
       spinbutton.error.flat:focus:not(.vertical), notebook > stack:not(:only-child) entry.error:focus,
