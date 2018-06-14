@@ -2038,7 +2038,7 @@ menu menuitem radio:checked {
 
 menu menuitem.radio:hover,
 menu menuitem radio:hover {
-  color: rgba(0, 0, 0, 0.6);
+  color: rgba(0, 0, 0, 0.5);
   -gtk-icon-shadow: none; }
 
 menu menuitem.radio:indeterminate:hover,
