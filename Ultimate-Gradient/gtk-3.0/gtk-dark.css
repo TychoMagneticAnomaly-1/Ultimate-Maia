@@ -2688,7 +2688,7 @@ colorswatch.light overlay {
 colorswatch.dark {
   color: #FFFFFF; }
 colorswatch.light {
-  color: rgba(0, 0, 0, 0.8); }
+  color: rgba(0, 0, 0, 0.7); }
 colorswatch:drop(active) {
   box-shadow: none; }
   colorswatch:drop(active).light overlay {
