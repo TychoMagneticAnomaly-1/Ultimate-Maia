@@ -2630,7 +2630,7 @@ infobar {
   infobar.question {
     background-color: #42A5F5; }
   infobar.warning {
-    background-color: #FFA726; }
+    background-color: #FFA736; }
   infobar.error {
     background-color: #EF5350; }
   infobar.info > label, infobar.info, infobar.question > label, infobar.question, infobar.warning > label, infobar.warning, infobar.error > label, infobar.error {
