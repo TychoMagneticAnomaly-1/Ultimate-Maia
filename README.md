@@ -1,5 +1,5 @@
 # Ultimate-Maia
-Easy On The Eyes Material design like Gnome 3.28 theme.
+Easy On The Eyes Material design like Gnome 3.30 theme.
 
 Thanks to nana-4 and his Materia theme for inspiration.
 
