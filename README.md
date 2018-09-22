@@ -1,11 +1,11 @@
 # Ultimate-Maia
 Easy On The Eyes Material design like Gnome 3.30 theme.
 
-Thanks to nana-4 and his Materia theme for inspiration.
-
 Theme can be download here : https://www.opendesktop.org/p/1193879/
 
 Dark version : https://www.opendesktop.org/p/1246387/
+
+Thanks to nana-4 and his Materia theme for inspiration.
 
 <b>SCREENSHOTS</b>
 
