@@ -2595,7 +2595,7 @@ placessidebar row {
   placessidebar row.sidebar-placeholder-row {
     min-height: 2px;
     padding: 0 8px;
-    background-image: image(#6988A6);
+    background-image: image(#6987A6);
     background-clip: content-box; }
   placessidebar row.sidebar-new-bookmark-row {
     color: #6988A6; }
