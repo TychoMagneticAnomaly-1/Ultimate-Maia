@@ -2910,7 +2910,7 @@ stackswitcher button.text-button.circular {
   from {
     background-color: transparent; }
   to {
-    background-color: alpha(currentColor, 0.3); } }
+    background-color: alpha(currentColor, 0.4); } }
 .nautilus-operations-button-needs-attention {
   color: #6988A6;
   animation: needs_attention_keyframes 0.3s cubic-bezier(0.4, 0, 0.2, 1) 2 alternate; }
