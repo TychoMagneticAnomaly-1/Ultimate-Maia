@@ -5,7 +5,7 @@ Theme can be download here : https://www.opendesktop.org/p/1193879/
 
 Dark version : https://www.opendesktop.org/p/1246387/
 
-Darl Sidebar : https://www.opendesktop.org/p/1270293/
+Dark Sidebar : https://www.opendesktop.org/p/1270293/
 
 Partially based on Materia theme by nana-4.
 
