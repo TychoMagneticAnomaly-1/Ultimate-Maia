@@ -17,4 +17,4 @@ Partially based on Materia theme by nana-4.
 
 <img src="https://cdn.scrot.moe/images/2018/09/21/screen003.jpg" alt="screen003.jpg" border="0" />
 
-<img src="https://cdn.scrot.moe/images/2018/10/24/screen6658447.jpg" alt="screen6658447.jpg" border="0" />
+<img src="https://cdn.scrot.moe/images/2018/10/29/screen5578787.jpg" alt="screen5578787.jpg" border="0" />
