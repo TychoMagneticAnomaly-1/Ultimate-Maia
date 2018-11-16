@@ -7,7 +7,8 @@ Dark version : https://www.opendesktop.org/p/1246387/
 
 Dark Sidebar : https://www.opendesktop.org/p/1270293/
 
-Partially based on Materia theme by nana-4.
+Partially based on <a href="https://github.com/nana-4/materia-theme">Materia theme</a>.
+ 
 
 <b>SCREENSHOTS</b>
 
