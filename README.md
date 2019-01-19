@@ -7,6 +7,8 @@ Dark version : https://www.opendesktop.org/p/1246387/
 
 Dark Sidebar : https://www.opendesktop.org/p/1270293/
 
+Colored Sidebar : https://www.opendesktop.org/p/1283611/
+
 Partially based on <a href="https://github.com/nana-4/materia-theme">Materia</a> theme.
  
 
@@ -19,3 +21,5 @@ Partially based on <a href="https://github.com/nana-4/materia-theme">Materia</a>
 <img src="https://cdn.scrot.moe/images/2018/09/21/screen003.jpg" alt="screen003.jpg" border="0" />
 
 <img src="https://cdn.scrot.moe/images/2018/10/29/screen5578787.jpg" alt="screen5578787.jpg" border="0" />
+
+<img src="https://cdn.scrot.moe/images/2019/01/19/screen225544.jpg" alt="screen225544.jpg" border="0" />
