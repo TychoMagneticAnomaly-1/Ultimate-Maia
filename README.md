@@ -7,7 +7,7 @@ Dark version : https://www.opendesktop.org/p/1246387/
 
 Dark Sidebar : https://www.opendesktop.org/p/1270293/
 
-Colored Sidebar : https://www.opendesktop.org/p/1283611/
+Colored Headerbar : https://www.opendesktop.org/p/1283611/
 
 Partially based on <a href="https://github.com/nana-4/materia-theme">Materia</a> theme.
  
