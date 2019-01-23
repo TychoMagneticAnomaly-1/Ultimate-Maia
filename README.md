@@ -5,9 +5,9 @@ Theme can be download here : https://www.opendesktop.org/p/1193879/
 
 Dark version : https://www.opendesktop.org/p/1246387/
 
-Dark Sidebar : https://www.opendesktop.org/p/1270293/
+Dark Sidebar version : https://www.opendesktop.org/p/1270293/
 
-Colored Headerbar : https://www.opendesktop.org/p/1283611/
+Colored Headerbar version : https://www.opendesktop.org/p/1283611/
 
 Partially based on <a href="https://github.com/nana-4/materia-theme">Materia</a> theme.
  
