@@ -3950,6 +3950,6 @@ widgets main borders color on backdrop windows */
 these are pretty self explicative */
 @define-color warning_color #FF6D00;
 @define-color error_color #DD2C20;
-@define-color success_color #00C873;
+@define-color success_color #00C883;
 @define-color content_view_bg #FFFFFF;
 @define-color placeholder_text_color rgba(128, 128, 128, 0.88);
