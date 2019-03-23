@@ -1,5 +1,5 @@
 # Ultimate-Maia
-Easy On The Eyes Material design like Gnome 3.30 theme.
+Easy On The Eyes Material design like Gnome theme.
 
 Theme can be download here : https://www.opendesktop.org/p/1193879/
 
