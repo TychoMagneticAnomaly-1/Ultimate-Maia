@@ -24,7 +24,6 @@ Partially based on <a href="https://github.com/nana-4/materia-theme">Materia</a>
 
 <img src="https://cdn.scrot.moe/images/2019/03/05/screen05.jpg" alt="screen05.jpg" border="0" />
 
-<img src="https://cdn.scrot.moe/images/2019/08/01/screen00001.png" alt="screen00001.png" border="0" />
+<img src="https://cdn.scrot.moe/images/2019/08/02/sceen101.png" alt="sceen101.png" border="0" />
 
-<img src="https://cdn.scrot.moe/images/2019/08/01/screen00002.png" alt="screen00002.png" border="0" />
-
+<img src="https://cdn.scrot.moe/images/2019/08/02/sceen102.png" alt="sceen102.png" border="0" />
