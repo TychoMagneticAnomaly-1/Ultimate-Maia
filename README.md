@@ -12,7 +12,10 @@ Colored Headerbar version : https://www.pling.com/p/1283611/
 Partially based on <a href="https://github.com/nana-4/materia-theme">Materia</a> theme.
  
 
-<b>SCREENSHOT</b>
+<b>SCREENSHOTS</b>
 
 <img src="https://www.cjoint.com/doc/19_11/IKDjgDzL7lR_screen124.jpg" alt="screen124.jpg" border="0" />
+
+<img src="https://www.cjoint.com/doc/19_12/ILgi7VHtqlA_screen332211.jpg" alt="screen332211.jpg" border="0" />
+
 
