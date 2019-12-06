@@ -20,7 +20,7 @@ Partially based on <a href="https://github.com/nana-4/materia-theme">Materia</a>
 
 <img src="https://www.cjoint.com/doc/19_12/ILgjcNdEs4A_screen554.jpg" alt="screen554.jpg" border="0" />
 
-<img src="https://www.cjoint.com/doc/19_12/ILgjeNI5QdA_screen6677.png" alt="screen6677.jpg" border="0" />
+<img src="https://www.cjoint.com/doc/19_12/ILgjeNI5QdA_screen6677.png" alt="screen6677.png" border="0" />
 
 
 
